@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer0726152/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sameer0726152/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sameer0726152/LeetCode/tree/master/0035-search-insert-position) |
+| [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sameer0726152/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
