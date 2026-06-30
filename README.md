@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sameer0726152/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sameer0726152/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sameer0726152/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Sameer0726152/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sameer0726152/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sameer0726152/LeetCode/tree/master/0069-sqrtx) |
 ## Counting
 |  |
 | ------- |
