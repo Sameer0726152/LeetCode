@@ -1,14 +1,11 @@
 class Solution(object):
     def sumAndMultiply(self, n):
-        num = str(n)
-        idk = ""
-        sum = 0
-        if n == 0:
-            return 0
-        for i in num:
+        x = ""
+        total = 0
+        for i in str(n):
             if i != "0":
-                idk += i
-                sum += int(i)
-            else:
-                continue
-        return int(idk) * sum
+                x += i
+                total += int(i)
+        if x == "":
+            return 0
+        return int(x) * total
