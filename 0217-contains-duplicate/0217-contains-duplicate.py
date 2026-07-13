@@ -1,13 +1,9 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        freq = {}
+        freq = set()
         for i in nums:
             if i in freq:
-                freq[i] += 1
-            else:
-                freq[i] = 1
-        for i in freq:
-            if freq[i] >= 2:
                 return True
+            freq.add(i)
         return False
         
