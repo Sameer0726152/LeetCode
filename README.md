@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Sameer0726152/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Sameer0726152/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Sameer0726152/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/Sameer0726152/LeetCode/tree/master/0511-game-play-analysis-i) |
 ## Number Theory
 |  |
 | ------- |
