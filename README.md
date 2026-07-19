@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sameer0726152/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sameer0726152/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Sameer0726152/LeetCode/tree/master/0228-summary-ranges) |
 | [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sameer0726152/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
