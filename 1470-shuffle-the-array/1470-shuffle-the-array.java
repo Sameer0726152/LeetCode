@@ -6,12 +6,8 @@ class Solution {
         int i = 0;
         while(left < n)
         {
-            result[i] += nums[left];
-            i++;
-            result[i] += nums[right];
-            i++;
-            left++;
-            right++;
+            result[i++] = nums[left++];
+            result[i++] = nums[right++];
         }
         return result;
     }
