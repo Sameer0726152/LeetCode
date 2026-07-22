@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sameer0726152/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sameer0726152/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
