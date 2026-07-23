@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sameer0726152/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sameer0726152/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Sameer0726152/LeetCode/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer0726152/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sameer0726152/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
