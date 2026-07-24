@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sameer0726152/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Sameer0726152/LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Sameer0726152/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer0726152/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sameer0726152/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sameer0726152/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sameer0726152/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
