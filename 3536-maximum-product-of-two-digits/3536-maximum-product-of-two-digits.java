@@ -1,18 +1,18 @@
 class Solution {
     public int maxProduct(int n) {
+        int largest = 0;
+        int secondlargest = 0;
         String idk = String.valueOf(n);
-        int max = 0;
-        for(int i = 0; i < idk.length(); i++){
-            for(int j = i + 1; j < idk.length();j++){
-                int d1 = idk.charAt(i) - '0';
-                int d2 = idk.charAt(j) - '0';
-                int mul = d1 * d2;
-                if(mul > max){
-                    max = mul;
-                }
+        for(int i = 0;i < idk.length(); i++){
+            if(idk.charAt(i) - '0' > largest){
+                secondlargest = largest;
+                largest = idk.charAt(i) - '0';
+            }
+            else if(idk.charAt(i) - '0' > secondlargest){
+                secondlargest = idk.charAt(i) - '0';
             }
         }
-        return max;
+        return largest * secondlargest;
     }
 }
 
