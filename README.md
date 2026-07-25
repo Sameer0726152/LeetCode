@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sameer0726152/LeetCode/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sameer0726152/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer0726152/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sameer0726152/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sameer0726152/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer0726152/LeetCode/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sameer0726152/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
