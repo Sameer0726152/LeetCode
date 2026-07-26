@@ -6,17 +6,9 @@ class Solution {
             prefix[i] = prefix[i - 1] + nums[i];
         }
         for(int i = 0; i < nums.length; i++){
-            if(i == 0){
-                if(prefix[nums.length - 1] - prefix[i] == 0){
-                    return i;
-                }
-            }
-            else{
-                if(prefix[nums.length - 1] - prefix[i] == prefix[i - 1]){
-                    return i;
-                }
-            }
-            
+            if(prefix[nums.length - 1] - prefix[i] == (i == 0 ? 0 : prefix[i - 1])){
+                return i;
+            } 
         }
         return -1;
     }
