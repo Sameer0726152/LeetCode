@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Sameer0726152/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Sameer0726152/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer0726152/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sameer0726152/LeetCode/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
