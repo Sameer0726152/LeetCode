@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Sameer0726152/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer0726152/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer0726152/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
