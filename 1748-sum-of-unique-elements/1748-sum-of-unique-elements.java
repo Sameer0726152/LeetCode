@@ -1,19 +1,14 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        HashSet<Integer> arr = new HashSet<>();
-        ArrayList<Integer> array = new ArrayList<>();
+        HashMap<Integer, Integer> arr = new HashMap<>();
         for(int num : nums){
-            if(!array.contains(num)){
-                array.add(num);
-                arr.add(num);
-            }
-            else{
-                arr.remove(num);
-            }
+            arr.put(num, arr.getOrDefault(num, 0) + 1);
         }
         int sum = 0;
-        for(int num : arr){
-            sum += num;
+        for(int num : arr.keySet()){
+            if(arr.get(num) == 1){
+                sum += num;
+            }
         }
         return sum;
     }
