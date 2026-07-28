@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Sameer0726152/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/Sameer0726152/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sameer0726152/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer0726152/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Sameer0726152/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Sameer0726152/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sameer0726152/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sameer0726152/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sameer0726152/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sameer0726152/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sameer0726152/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sameer0726152/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer0726152/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sameer0726152/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
