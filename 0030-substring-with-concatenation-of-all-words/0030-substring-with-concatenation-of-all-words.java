@@ -26,7 +26,7 @@ class Solution {
                 count++;
                 while(window.get(word) > need.get(word)){
                     String lword = s.substring(left, left + wordlength);
-                    window.put(lword, window.getOrDefault(lword, 0) - 1);
+                    window.put(lword, window.get(lword)- 1);
                     count--;
                     left += wordlength;
                 }
