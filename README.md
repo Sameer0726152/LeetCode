@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sameer0726152/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer0726152/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sameer0726152/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sameer0726152/LeetCode/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sameer0726152/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sameer0726152/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer0726152/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sameer0726152/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer0726152/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sameer0726152/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sameer0726152/LeetCode/tree/master/0076-minimum-window-substring) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
