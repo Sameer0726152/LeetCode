@@ -14,7 +14,7 @@ class Solution {
     int takeLeft = piles[left] - solve(piles, left + 1, right, dp);
     int takeRight = piles[right] - solve(piles, left, right - 1, dp);
     dp[left][right] = Math.max(takeLeft, takeRight);
-    return dp[left][right];
+    return Math.max(takeLeft, takeRight);
 }
 }
 
