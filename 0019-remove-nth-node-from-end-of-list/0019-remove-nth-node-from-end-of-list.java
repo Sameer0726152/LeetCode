@@ -18,9 +18,6 @@ class Solution {
             return null;
         }
         for(int i = 0; i <= n; i++){
-            if(fast == null){
-                return null;
-            }
             fast = fast.next;
         }
         while(fast != null){
