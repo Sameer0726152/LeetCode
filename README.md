@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sameer0726152/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sameer0726152/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Sameer0726152/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sameer0726152/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sameer0726152/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer0726152/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sameer0726152/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sameer0726152/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sameer0726152/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sameer0726152/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sameer0726152/LeetCode/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer0726152/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
 |  |
 | ------- |
