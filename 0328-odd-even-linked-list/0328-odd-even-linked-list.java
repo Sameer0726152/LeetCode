@@ -13,27 +13,16 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
-        ListNode temp = head;
-        int size = 1;
-        ListNode tail = head;
-        ListNode prev = null;
-        while(tail.next != null){
-            tail = tail.next;
-            size++;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenhead = even;
+        while(even != null && even.next != null){
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
         }
-        for(int i = 1; i <= size; i++){
-            ListNode temp1 = temp.next;
-            if(i % 2 == 0 && temp != tail){
-                prev.next = temp.next;
-                tail.next = temp;
-                temp.next = null;
-                tail = temp;
-            }
-            else{
-                prev = temp;
-            }
-            temp = temp1;
-        }
+        odd.next = evenhead;
         return head;
     }
 }
