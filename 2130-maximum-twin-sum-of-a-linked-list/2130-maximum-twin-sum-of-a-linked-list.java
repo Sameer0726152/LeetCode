@@ -11,28 +11,33 @@
 class Solution {
     public int pairSum(ListNode head) {
         ListNode temp = head;
-        int size = 0;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode before = head;
+        while(fast != null && fast.next != null){
+            before = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        ListNode previous = null;
+        temp = slow;
         while(temp != null){
-            size++;
-            temp = temp.next;
+            ListNode next = temp.next;
+            temp.next = previous;
+            previous = temp;
+            temp = next;
+            slow = temp;
         }
-        int[] arr = new int[size];
-        temp = head;
-        for(int i = 0; i < size; i++){
-            arr[i] = temp.val;
-            temp = temp.next;
-        }
-        int left = 0; 
-        int right = size - 1;
+        ListNode first = head;
+        ListNode second = previous;
         int ans = 0;
-        while(left < right){
-            int sum = 0;
-            sum += arr[left] + arr[right];
+        while(second != null){
+            int sum = first.val + second.val;
             if(sum > ans){
                 ans = sum;
             }
-            left++;
-            right--;
+            first = first.next;
+            second = second.next;
         }
         return ans;
     }
