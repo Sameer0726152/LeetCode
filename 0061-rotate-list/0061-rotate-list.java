@@ -13,25 +13,24 @@ class Solution {
         if(head == null || head.next == null || k == 0){
             return head;
         }
-        int size = 0;
-        ListNode temp = head;
-        while(temp != null){
+        int size = 1;
+        ListNode tail = head;
+        while(tail.next != null){
             size++;
-            temp = temp.next;
+            tail = tail.next;
         }
-        int rotations = k % size;
-        for(int i = 0; i < rotations; i++){
-            ListNode tail = head;
-            ListNode before = null;
-            while(tail.next != null){
-                before = tail;
-                tail = tail.next;
-            }
-            before.next = null;
-            tail.next = head;
-            head = tail;
+        k %= size;
+        if(k == 0){
+            return head;
         }
-        return head;
+        tail.next = head;
+        ListNode newtail = head;
+        for(int i = 0; i < size - k - 1; i++){
+            newtail = newtail.next;
+        }
+        ListNode newhead = newtail.next;
+        newtail.next = null;
+        return newhead;
     }
 }
 
