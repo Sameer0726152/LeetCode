@@ -8,15 +8,19 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.math.BigInteger;
 class Solution {
+    private int gcd(int a, int b){
+        while(b != 0){
+            int remainder = a % b;
+            a = b;
+            b = remainder;
+        }
+        return a;
+    }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         ListNode temp = head;
         while(temp != null && temp.next != null){
-            BigInteger num1 = BigInteger.valueOf(temp.val);
-            BigInteger num2 = BigInteger.valueOf(temp.next.val);
-            BigInteger gcdvalue = num1.gcd(num2);
-            int value = gcdvalue.intValue();
+            int value = gcd(temp.val, temp.next.val);
             ListNode newnode = new ListNode(value);
             ListNode next = temp.next;
             temp.next = newnode;
