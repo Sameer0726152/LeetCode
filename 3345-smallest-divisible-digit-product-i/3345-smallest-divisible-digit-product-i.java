@@ -1,16 +1,16 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        for(int i = n; i <= 100; i++){
+        while(n <= 100){
             int product = 1;
-            int num = i;
+            int num = n;
             while(num > 0){
-                int digit = num % 10;
-                product *= digit;
+                product *= num % 10;
                 num /= 10;
             }
             if(product % t == 0){
-                return i;
+                return n;
             }
+            n++;
         }
         return 0;
     }
