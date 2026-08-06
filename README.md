@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer0726152/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sameer0726152/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sameer0726152/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sameer0726152/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sameer0726152/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sameer0726152/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sameer0726152/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameer0726152/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Data Stream
 |  |
 | ------- |
