@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Sameer0726152/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/Sameer0726152/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sameer0726152/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sameer0726152/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
