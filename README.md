@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sameer0726152/LeetCode/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/Sameer0726152/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer0726152/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sameer0726152/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sameer0726152/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sameer0726152/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sameer0726152/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Sameer0726152/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Sameer0726152/LeetCode/tree/master/1920-build-array-from-permutation) |
