@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer0726152/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sameer0726152/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sameer0726152/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sameer0726152/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sameer0726152/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sameer0726152/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sameer0726152/LeetCode/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sameer0726152/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sameer0726152/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sameer0726152/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sameer0726152/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sameer0726152/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sameer0726152/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sameer0726152/LeetCode/tree/master/0202-happy-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer0726152/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sameer0726152/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sameer0726152/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sameer0726152/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
