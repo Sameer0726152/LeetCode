@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sameer0726152/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Sameer0726152/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sameer0726152/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Heap (Priority Queue)
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sameer0726152/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
