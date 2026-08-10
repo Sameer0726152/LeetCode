@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Sameer0726152/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Heap (Priority Queue)
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer0726152/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Sameer0726152/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Sameer0726152/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Sameer0726152/LeetCode/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
