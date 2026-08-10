@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sameer0726152/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer0726152/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer0726152/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Sameer0726152/LeetCode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Sameer0726152/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sameer0726152/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Sameer0726152/LeetCode/tree/master/0739-daily-temperatures) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sameer0726152/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sameer0726152/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/Sameer0726152/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Sameer0726152/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sameer0726152/LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sameer0726152/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer0726152/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/Sameer0726152/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Sameer0726152/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sameer0726152/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/Sameer0726152/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sameer0726152/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer0726152/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
