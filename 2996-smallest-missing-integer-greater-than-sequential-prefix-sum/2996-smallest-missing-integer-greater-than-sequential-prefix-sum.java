@@ -13,11 +13,10 @@ class Solution {
         for(int num : nums){
             set.add(num);
         }
-        int maximum = count;
-        while(set.contains(maximum)){
-            maximum++;
+        while(set.contains(count)){
+            count++;
         }
-        return maximum;
+        return count;
     }
 }
 
