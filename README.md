@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sameer0726152/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sameer0726152/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sameer0726152/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sameer0726152/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameer0726152/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sameer0726152/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Sameer0726152/LeetCode/tree/master/3731-find-missing-elements) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sameer0726152/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sameer0726152/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2296-design-a-text-editor](https://github.com/Sameer0726152/LeetCode/tree/master/2296-design-a-text-editor) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sameer0726152/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
